@@ -1,0 +1,10 @@
+data/
+fonts/
+outputs/
+*.csv
+!results/*.csv
+!docs/*.csv
+*.xlsx
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
